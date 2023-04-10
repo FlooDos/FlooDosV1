@@ -1,2 +1,3 @@
 # FlooDosV1
-Dos Attack tool
+FlooDos is a dos Attack tool
+usage for kali : sudo python3 FlooDosV1
